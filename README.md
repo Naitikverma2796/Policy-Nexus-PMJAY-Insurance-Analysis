@@ -1,5 +1,4 @@
-# Policy-Nexus-PMJAY-Insurance-Analysis
-## PM-JAY's Impact on Health Insurance Coverage in India
+# PM-JAY's Impact on Health Insurance Coverage in India
 ### A Difference-in-Differences + XGBoost/SHAP Analysis using NFHS-4 & NFHS-5
 
 ---
